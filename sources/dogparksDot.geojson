@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "dogparksDot",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "node/4501525471", "@id": "node/4501525471", "access": null, "addr:city": "Brooklyn", "addr:housenumber": "360", "addr:postcode": "11201", "addr:state": "NY", "addr:street": "Furman Street", "alt_name": null, "barrier": null, "fence_type": null, "gnis:feature_id": null, "leisure": "dog_park", "name": "Brooklyn Bridge Park - Pier 6 - Dog Run", "note": null, "nycparks:ref": null, "opening_hours": null, "operator": null, "operator:type": null, "website": "https://www.brooklynbridgepark.org/places/dog-runs-1", "wikidata": null }, "geometry": { "type": "Point", "coordinates": [ -74.0000345, 40.6927371 ] } },
+{ "type": "Feature", "properties": { "id": "node/10251064201", "@id": "node/10251064201", "access": "yes", "addr:city": null, "addr:housenumber": null, "addr:postcode": null, "addr:state": null, "addr:street": null, "alt_name": null, "barrier": null, "fence_type": null, "gnis:feature_id": null, "leisure": "dog_park", "name": "Main Street Dog Run", "note": null, "nycparks:ref": null, "opening_hours": null, "operator": "Brooklyn Bridge Park", "operator:type": "public", "website": "https://brooklynbridgepark.org/places-to-see/dog-runs/dog-run-john-street/", "wikidata": null }, "geometry": { "type": "Point", "coordinates": [ -73.9887016, 40.7040161 ] } }
+]
+}
